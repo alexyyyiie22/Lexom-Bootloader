@@ -26,5 +26,4 @@ To Add One Click A And Select From Avalible Devices.
 To Delete One Select It And Type D.
 To Exit The Bootloader Type E.
 2026.
-'''bash
 LEXOM BOOTLOADER IS NOT FOR DAILY DRIVER USE AND IS NOT GOOD.
